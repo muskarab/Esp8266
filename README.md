@@ -1,5 +1,5 @@
 # esp-dht11
-Repository untuk project esp dht11 https://thingspeak.com/
+Repository untuk project esp dht11 https://thingspeak.com/.
 There are 3 variables that you need to change. 
 
 # Preparing your code
