@@ -11,3 +11,5 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 const char* apiKey = "REPLACE_WITH_YOUR_ThingSpeak_WRITE_API_KEY";
 
 # Open file Schematics to build the project
+
+# Download and copy library into Arduino Library
