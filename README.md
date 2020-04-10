@@ -9,3 +9,5 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 
 # Enter your Thing Speak Write API key in this variable:
 const char* apiKey = "REPLACE_WITH_YOUR_ThingSpeak_WRITE_API_KEY";
+
+# Open file Schematics to build the project
